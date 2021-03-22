@@ -13,7 +13,7 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     被封印的枫叶
+weibo_username:     u/1663737262
 zhihu_username:     wu-xiao-wei-71-67
 github_username:    wxwmaple
 twitter_username:   wxwmaple
